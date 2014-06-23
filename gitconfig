@@ -1,0 +1,11 @@
+[color]
+	ui = true
+[core]
+	excludesfile = /Users/bjy/.gitignore
+[user]
+	name = Ben Youngblood
+	email = ben@synapsestudios.com
+[push]
+	default = simple
+[grep]
+	lineNumber = true
