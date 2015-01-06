@@ -51,16 +51,8 @@ function fish_prompt --description 'Write out the prompt'
   
 end
 
-function sc
-  /opt/GtkGrab/screenshot
-end
-
-function get_composer
-  wget -O installer.php https://getcomposer.org/installer; and php installer.php; and rm installer.php
-end
-
-set PATH /usr/local/sbin ~/bin $PATH
-set DOCKER_HOST tcp://localhost:4243
+set -x PATH ~/bin /usr/local/sbin /usr/local/bin $PATH
+set -x DOCKER_HOST tcp://localhost:4243
 
 function docker
   /usr/local/bin/docker -H tcp://127.0.0.1:4243 $argv
