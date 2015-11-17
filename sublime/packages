@@ -1,19 +1,8 @@
-AutoFileName
+Babel
 BracketHighlighter
-Colorsublime
 DocBlockr
 GitGutter
-Handlebars
-JSX
-Package Control
-Sass
-SideBarEnhancements
-SublimeLinter-annotations
-SublimeLinter-jshint
-SublimeLinter-json
-SublimeLinter-jsxhint
-SublimeLinter-php
-SublimeLinter-phpcs
-SublimeLinter-phpmd
-sublime-github
-sublime_alignment
+Oceanic Next Color Scheme
+SidebarEnhancements
+SublimeLinter
+SublimeLinter-contrib-eslint_d (be sure to `npm -g install eslint_d`)
