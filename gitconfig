@@ -2,6 +2,7 @@
 	ui = true
 [core]
 	excludesfile = /Users/bjy/.gitignore
+	editor = subl -n -w
 [user]
 	name = Ben Youngblood
 	email = bx.youngblood@gmail.com
